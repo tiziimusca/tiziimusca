@@ -15,7 +15,7 @@
 
 ### 🌱 Currently learning
 
-- ☁️ Google Cloud (taking a course fully in English)
+- ☁️ Google Cloud
 - 📈 Software Architecture & Design Patterns
 - 📊 Improving my frontend with Svelte
 
@@ -41,19 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiziimusca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiziimusca&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tiziimusca&theme=dracula&no-frame=true&margin-w=10" />
 </div>
-
-<!-- O puedes reemplazar lo de arriba con los trofeos: -->
-<!--
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiziimusca&theme=dracula&margin-w=10&no-frame=true" />
-</div>
--->
 
 ---
 
