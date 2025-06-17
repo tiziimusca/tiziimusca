@@ -41,13 +41,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiziimusca&theme=dracula&no-frame=true&margin-w=10" />
-</div>
-
----
+<!--START_STATS-->
+<img src="https://github-readme-stats.vercel.app/api?username=tiziimusca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" />
+<!--END_STATS-->
 
 ### 🤝 Connect with me
 
