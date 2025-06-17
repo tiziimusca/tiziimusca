@@ -1,25 +1,6 @@
 <h2 align="left">Hi 👋! I'm Tiziano, a Backend Developer from Argentina</h2>
 <h3 align="left">Passionate about building robust and scalable backend solutions.</h3>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!--START_STATS-->
-<img src="https://github-readme-stats.vercel.app/api?username=tiziimusca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" />
-<!--END_STATS-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiziimusca&layout=compact&theme=dracula&count_private=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tiziimusca&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tiziimusca&theme=dracula&hide_border=true" />
-
-</div>
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -51,18 +32,3 @@
   </a>
 </p>
 
----
-
-### 👁️ Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tiziimusca&label=Profile%20views&color=7F00FF&style=flat" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiziimusca/tiziimusca/output/snake.svg" alt="Snake animation" />
-</p>
