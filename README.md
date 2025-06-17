@@ -39,24 +39,6 @@
   <img width="12" />
   </div>
 
----
-
-<h3 align="left">💡 Experiencia con Proyectos</h3>
-<div align="left">
-  <p>Durante mi trayectoria como Backend Developer, he tenido la oportunidad de trabajar en diversos proyectos, aplicando mis conocimientos en:</p>
-  <ul>
-    <li>Desarrollo de <strong>APIs RESTful y microservicios</strong> para la gestión de datos y lógica de negocio compleja, utilizando <strong>Python (Django, FastAPI)</strong> y <strong>Java (Spring Boot)</strong>.</li>
-    <li>Integración con <strong>bases de datos relacionales (SQL)</strong> y <strong>NoSQL (MongoDB)</strong>, diseñando esquemas y optimizando consultas.</li>
-    <li>Implementación de soluciones de <strong>autenticación y autorización</strong>, garantizando la seguridad de las aplicaciones.</li>
-    <li>Uso de <strong>Docker</strong> para la contenerización y despliegue de servicios, facilitando entornos consistentes.</li>
-    <li>Trabajo con servicios en la nube de <strong>Google Cloud Platform (GCP)</strong> para infraestructura y despliegues.</li>
-    <li>Colaboración en equipos de desarrollo ágiles, utilizando <strong>Git</strong> para el control de versiones y gestión de proyectos.</li>
-  </ul>
-  <p>Aunque la mayoría de estos proyectos son privados, estoy disponible para discutir mis experiencias y el impacto de mi trabajo en una entrevista.</p>
-</div>
-
----
-
 <h3 align="left">
   <a href="https://www.linkedin.com/in/tiziano-musca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
